@@ -1,6 +1,7 @@
-# SightLine
+![image](https://github.com/lokey481/SightLine/assets/122303191/f1cde441-baca-4e3b-8b5a-cd2c155dc8d6)# SightLine
+
 Domain Recon Tool
-Overview
+
 SightLine is a comprehensive reconnaissance tool designed to gather information about a target URL. With a focus on simplicity and robustness, SightLine integrates several essential modules for website and domain analysis, such as --
 
 Web technology identification using BuiltWith.
@@ -24,3 +25,5 @@ all the info will be saved into a txt file "Recon_results.txt"
 Note
 You can input your own subdomain list , the provided is just a template from seclist.
 Always ensure you have permission to scan the target and respect all laws and terms of service. Misuse of this tool can result in legal consequences.
+
+![Screenshot (6)](https://github.com/lokey481/SightLine/assets/122303191/b44a7665-fd53-4a75-bb0c-cc7267968d6f)
