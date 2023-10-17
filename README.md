@@ -22,7 +22,7 @@ all the info will be saved into a txt file "Recon_results.txt"
 
 Note
 You can input your own subdomain list , the provided list is just a template from seclist.
-Always ensure you have permission to scan the target and respect all laws and terms of service. Misuse of this tool can result in legal consequences.
+Always ensure you have permission to scan the target and respect all laws and terms of service.
 
 
 ![ezgif com-video-to-gif](https://github.com/lokey481/SightLine/assets/122303191/79917b4e-ec31-48af-aa84-5a610f45f813)
