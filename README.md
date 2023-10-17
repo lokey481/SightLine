@@ -1,4 +1,4 @@
-![image](https://github.com/lokey481/SightLine/assets/122303191/f1cde441-baca-4e3b-8b5a-cd2c155dc8d6)# SightLine
+# SightLine
 
 Domain Recon Tool
 
