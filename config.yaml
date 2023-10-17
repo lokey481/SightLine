@@ -1,1 +1,5 @@
+urlscan:
+  api_key: 
 
+security_trails:
+  api_key: https://api.securitytrails.com/v1/feeds/domains/all?apikey=
