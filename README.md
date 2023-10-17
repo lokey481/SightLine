@@ -26,4 +26,5 @@ Note
 You can input your own subdomain list , the provided is just a template from seclist.
 Always ensure you have permission to scan the target and respect all laws and terms of service. Misuse of this tool can result in legal consequences.
 
-![Screenshot (6)](https://github.com/lokey481/SightLine/assets/122303191/b44a7665-fd53-4a75-bb0c-cc7267968d6f)
+
+![ezgif com-video-to-gif](https://github.com/lokey481/SightLine/assets/122303191/79917b4e-ec31-48af-aa84-5a610f45f813)
