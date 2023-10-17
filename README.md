@@ -12,8 +12,6 @@ Analysis with URLScan.io.
 Domain information from SecurityTrails.
 
 ***Installation***
-Prerequisites
-Python
 pip install dependecies from requirements.txt
 Set up your API keys in the configure.yaml file
 
@@ -23,7 +21,7 @@ input the target url without the prefix ...Ex "google.com"
 all the info will be saved into a txt file "Recon_results.txt"
 
 Note
-You can input your own subdomain list , the provided is just a template from seclist.
+You can input your own subdomain list , the provided list is just a template from seclist.
 Always ensure you have permission to scan the target and respect all laws and terms of service. Misuse of this tool can result in legal consequences.
 
 
